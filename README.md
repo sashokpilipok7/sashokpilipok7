@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oleksandr Pylypenko - Fullstack Developer
+# Oleksandr Pylypenko - Fullstack Developer
 
 Fullstack Developer · CS Student · 4 years of commercial experience
 
