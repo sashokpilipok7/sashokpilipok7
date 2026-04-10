@@ -53,7 +53,7 @@ Led a volunteer team organizing inclusive sports and educational programs for yo
 **B.S. Computer Science** - Kamianets-Podilskyi National University *(In Progress)*
 
 - JavaScript 2024 - Fwdays
-- SQL Module - Mate Academy
+- SQL, Python, AI Modules - Mate Academy
 - MERN Stack - Udemy
 
 ---
