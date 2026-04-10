@@ -70,3 +70,12 @@ Led a volunteer team organizing inclusive sports and educational programs for yo
 - 🥊 Muay Thai and functional training
 - 🎸 Guitar and music theory
 - 🤝 Community development and inclusive fitness initiatives
+
+---
+
+## 📫 Contact
+ 
+- 💼 [linkedin.com/in/sashokpilipok](https://www.linkedin.com/in/oleksandr-pylypenko-269aa0150/)
+- 💬 [t.me/sasha_dev_v](https://t.me/wawceo)
+- ✉️ [sashapylypenko.pov@gmail.com](mailto:sashapylypenko.pov@gmail.com)
+- 🌐 [capernaum.kp](https://capernaum-kp.club/)
