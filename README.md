@@ -28,22 +28,22 @@ Python, MicroPython, Raspberry Pi, Git, Docker (Basic), Webpack, REST API
 
 ## 💼 Experience
 
-**Fullstack Development - Outsource & Outstaff**
+**Fullstack Development - Outsource & Outstaff**   
 Built and maintained responsive UIs and RESTful API integrations across multiple client projects in various domains.
 
-**Ukrainian E-commerce Marketplaces**
+**Ukrainian E-commerce Marketplaces**   
 Worked on high-load frontend interfaces for large-scale Ukrainian marketplaces. Learned what scale actually looks like.
 
-**Community Leadership - 3 years** *(Active)*
+**Community Leadership - 3 years** *(Active)*   
 Led a volunteer team organizing inclusive sports and educational programs for youth and people with disabilities.
  
-**University Digital Department - Kamianets-Podilskyi National University** *(Active)*
+**University Digital Department - Kamianets-Podilskyi National University** *(Active)*   
 Contributing to the digital initiatives at the university - bridging student life and technology.
  
-**IT Kamianets - Community Participant** *(Active)*
+**IT Kamianets - Community Participant** *(Active)*   
 Part of the local tech community: meetups, workshops, and connecting developers and students in Kamianets-Podilskyi.
  
-**Community Leadership - 3 years**
+**Community Leadership - 3 years**   
 Led a volunteer team organizing inclusive sports and educational programs for youth and people with disabilities.
 
 ---
@@ -76,6 +76,6 @@ Led a volunteer team organizing inclusive sports and educational programs for yo
 ## 📫 Contact
  
 - 💼 [linkedin.com/in/sashokpilipok](https://www.linkedin.com/in/oleksandr-pylypenko-269aa0150/)
-- 💬 [t.me/sasha_dev_v](https://t.me/wawceo)
+- 💬 [t.me/sasha_dev_v](https://t.me/sasha_dev_v)
 - ✉️ [sashapylypenko.pov@gmail.com](mailto:sashapylypenko.pov@gmail.com)
 - 🌐 [capernaum.kp](https://capernaum-kp.club/)
