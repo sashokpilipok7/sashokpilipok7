@@ -49,6 +49,7 @@ Part of the local tech community: meetups, workshops, and connecting developers 
 
 **B.S. Computer Science** - Kamianets-Podilskyi National University *(In Progress)*
 
+- AI Summit 2026 - Fwdays
 - JavaScript 2024 - Fwdays
 - SQL, Python, AI Modules - Mate Academy
 - MERN Stack - Udemy
