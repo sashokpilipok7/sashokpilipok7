@@ -42,9 +42,6 @@ Contributing to the digital initiatives at the university - bridging student lif
  
 **IT Kamianets - Community Participant** *(Active)*   
 Part of the local tech community: meetups, workshops, and connecting developers and students in Kamianets-Podilskyi.
- 
-**Community Leadership - 3 years**   
-Led a volunteer team organizing inclusive sports and educational programs for youth and people with disabilities.
 
 ---
 
