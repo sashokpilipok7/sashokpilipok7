@@ -16,13 +16,13 @@ I build web apps - both the parts people see and the parts that make them work. 
 React.js, Next.js, TypeScript, JavaScript (ES6+), Redux (Thunk/Saga), HTML5, CSS3/SASS
 
 **Backend & CMS**
-Node.js, Express.js, PHP, Strapi, WordPress
+Python, FastAPI, SQLAlchemy, Strapi, Headless WordPress
 
 **Databases**
-MongoDB, SQL
+MongoDB, SQLite, PostgreSQL 
 
-**Embedded & Tools**
-Python, MicroPython, Raspberry Pi, Git, Docker (Basic), Webpack, REST API
+**Tools**
+Pi Agent, Git, Docker (Basic), Webpack, REST API
 
 ---
 
